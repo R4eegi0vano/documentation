@@ -125,6 +125,10 @@ For Music Presence to detect media playback, applications must report informatio
 
 Depending on the media player you are using, you may need to install a plugin, run a helper program or enable a specific setting. Refer to the table below for instructions.
 
+!!! warning "Third-party software"
+
+    The software listed here is not monitored by us for malware. Use at your own risk. If you find that one of the listed programs is malicious, please [contact us]({{ config.repo_url }}/issues/new){ target="_blank" }.
+
 Make sure to select the correct operating system by clicking on the respective tab.
 
 <div class="tabbed-set-table-next"></div>
