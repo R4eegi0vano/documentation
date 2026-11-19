@@ -1,10 +1,10 @@
 ---
-title: Installation
+title: Dominic's asmr Playlist 4 wifey Rae
 icon: lucide/download
 hide:
     - tags
 tags:
-    - Setup
+    - just for Rae
 ---
 
 # Installing Music Presence
